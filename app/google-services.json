@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645973325852",
+    "firebase_url": "https://bizquiz-76524.firebaseio.com",
+    "project_id": "bizquiz-76524",
+    "storage_bucket": "bizquiz-76524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645973325852:android:d40954e640a47dd21707d9",
+        "android_client_info": {
+          "package_name": "com.example.bizquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645973325852-brnaknroananjbmkmt6335vkqhbocavb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bizquiz",
+            "certificate_hash": "041a1ece91c6bebcff3851f79ed2279b764154cb"
+          }
+        },
+        {
+          "client_id": "645973325852-qsfardtre6joe3dusk3h30d06a5mrg6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-Lnl0nNtrPoxZKlOKqTJ_nTHlXbymBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645973325852-qsfardtre6joe3dusk3h30d06a5mrg6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
